@@ -23,11 +23,11 @@ I typically grab the .NFC from the physical Amiibo when I purchase it. I then co
 
 ### In the Works:
 #### Awaiting the release of the following Amiibo:
-- Noah - Xenoblade Chronicles 3 (TBA)
-- Mio - Xenoblade Chronicles 3 (TBA)
-- Zelda - Legend of Zelda: Tears of the Kingdom (Holiday 2023)
-- Ganondorf - Legend of Zelda: Tears of the Kingdom (Holiday 2023)
-- Sora - Kingdom Hearts (Rumored)
+- **Noah** - Xenoblade Chronicles 3 (TBA)
+- **Mio** - Xenoblade Chronicles 3 (TBA)
+- **Zelda** - Legend of Zelda: Tears of the Kingdom (Holiday 2023)
+- **Ganondorf** - Legend of Zelda: Tears of the Kingdom (Holiday 2023)
+- **Sora** - Kingdom Hearts (Rumored)
 
 ------------
 
