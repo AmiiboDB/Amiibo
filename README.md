@@ -1,4 +1,4 @@
-![](https://img.nerdburglars.net/wp-content/uploads/2023/05/amiibo-logo.jpg)
+![](https://i2.paste.pics/OY6M5.png)
 # Welcome to the Amiibo Database
 I have uploaded every Amiibo .Bin and .NFC file I could get my hands on.
 I have **NOT** tested all of these but I have tested *most*, so please let me know if there is a problem.
