@@ -5,6 +5,7 @@ I have **NOT** tested all of these but I have tested *most*, so please let me kn
 
 ## What do I do with these?
 Amiibo data are stored on the physical Amiibo as a .bin file.
+
 **.Bin file** - raw data from physical Amiibo
 **.NFC file** - the file needed to write to an NFC tag/card or send via nfc to your switch, this emulates a physical Amiibo. 
 
