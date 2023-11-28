@@ -45,7 +45,7 @@ AmiiboDB@gmail.com
 
 ### Changelog:
 #### 11.28.23
-**Uploaded more .bin files:**
+**Uploaded more .bin/.nfc files:**
 - [SSB] Pyra
 - [SSB] Mythra
 - [Splatoon] Big Man
