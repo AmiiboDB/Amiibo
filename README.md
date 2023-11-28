@@ -14,9 +14,6 @@ Amiibo data are stored on the physical Amiibo as a .bin file.
 
 I have included a rough "how-to" guide explaining what you would need to use to write the .nfc to a tag or how to emulate it directly to your Switch.
 
-------------
-
-
 #### Missing Bin Files:
 - None reported
 
@@ -31,11 +28,9 @@ I have included a rough "how-to" guide explaining what you would need to use to 
 
 ### In the Works:
 #### Awaiting the release of the following Amiibo:
-- **Noah** - Xenoblade Chronicles 3 (TBA)
-- **Mio** - Xenoblade Chronicles 3 (TBA)
-- **Zelda** - Legend of Zelda: Tears of the Kingdom (Holiday 2023)
-- **Ganondorf** - Legend of Zelda: Tears of the Kingdom (Holiday 2023)
-- **Sora** - Kingdom Hearts (Rumored)
+- **Noah** - Xenoblade Chronicles 3 (1/19/2024)
+- **Mio** - Xenoblade Chronicles 3 (1/19/2024)
+- **Sora** - Kingdom Hearts (2024)
 
 ------------
 
@@ -49,6 +44,18 @@ AmiiboDB@gmail.com
 
 
 ### Changelog:
+#### 11.28.23
+**Uploaded more .bin files:**
+- [SSB] Pyra
+- [SSB] Mythra
+- [Splatoon] Big Man
+- [Splatoon] Shiver
+- [Splatoon] Frye
+- [TLoZ:ToK] Zelda
+- [TLoZ:ToK] Ganondorf
+
+Also added a markup version of the guide so the .docx file doesn't have to be downloaded.
+
 #### 8.2.23
 **Uploaded more .bin files:**
 - Mario 30th Classic
