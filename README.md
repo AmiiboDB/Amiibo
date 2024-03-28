@@ -28,7 +28,7 @@ I have included a rough "how-to" guide explaining what you would need to use to 
 
 ### In the Works:
 #### Awaiting the release of the following Amiibo:
-- None to report
+- Splatoon 3 has placeholder data for 2 more amiibo's so keep an eye out for any announcement dates.
 
 ------------
 
