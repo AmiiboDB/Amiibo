@@ -28,9 +28,7 @@ I have included a rough "how-to" guide explaining what you would need to use to 
 
 ### In the Works:
 #### Awaiting the release of the following Amiibo:
-- **Noah** - Xenoblade Chronicles 3 (1/19/2024)
-- **Mio** - Xenoblade Chronicles 3 (1/19/2024)
-- **Sora** - Kingdom Hearts (2024)
+- None to report
 
 ------------
 
@@ -44,6 +42,12 @@ AmiiboDB@gmail.com
 
 
 ### Changelog:
+### 03.28.24
+**Uploaded more .bin/.nfc files:**
+- [Xenoblade] Noah
+- [Xenoblade] Mio
+- [SSB] Sora
+
 #### 11.28.23
 **Uploaded more .bin/.nfc files:**
 - [SSB] Pyra
