@@ -14,6 +14,8 @@ Amiibo data are stored on the physical Amiibo as a .bin file.
 
 I have included a rough "how-to" guide explaining what you would need to use to write the .nfc to a tag or how to emulate it directly to your Switch.
 
+If you need assistance converting .bin to .nfc or the other way around, feel free to email me as I have a custom python script I use for conversion. 
+
 #### Missing Bin Files:
 - None reported
 
