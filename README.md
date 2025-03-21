@@ -10,11 +10,9 @@ Amiibo data are stored on the physical Amiibo as a .bin file.
 
 **.NFC file** - the file needed to write to an NFC tag/card or send via nfc to your switch, this emulates a physical Amiibo. 
 
-*Note:* You won't need the .bin files unless you just want them as some sort of backup. You would need to convert them to nfc if you wanted to use them. **[Most likely you're only here for the .nfc files](https://github.com/AmiiboDB/Amiibo/tree/main/Amiibo%20NFC "Most likely you're only here for the .nfc files").**
+*Note:* You won't need the .bin files unless you just want them as some sort of backup. You would need to convert them to nfc if you wanted to use them. **Most likely you're only here for the .nfc files.**
 
 I have included a rough "how-to" guide explaining what you would need to use to write the .nfc to a tag or how to emulate it directly to your Switch.
-
-If you need assistance converting .bin to .nfc or the other way around, feel free to email me as I have a custom python script I use for conversion. 
 
 #### Missing Bin Files:
 - None reported
@@ -30,7 +28,7 @@ If you need assistance converting .bin to .nfc or the other way around, feel fre
 
 ### In the Works:
 #### Awaiting the release of the following Amiibo:
-- Splatoon 3 has placeholder data for 2 more amiibo's so keep an eye out for any announcement dates.
+- None to report
 
 ------------
 
@@ -44,7 +42,20 @@ AmiiboDB@gmail.com
 
 
 ### Changelog:
-#### 03.28.24
+### 03.21.25
+**Added More amiibo (.bin/.nfc) to the list:**
+- [Splatoon] Callie (Alterna)
+- [Splatoon] Marie (Alterna)
+- [Splatoon] Marina (Side Order)
+- [Splatoon] Pearl (Side Order)
+
+**Added Missing Files:**
+- [TLoZ:ToK] Gerudo_King.bin
+- [TLoZ:ToK] Princess_Zelda.bin
+
+
+
+### 03.28.24
 **Uploaded more .bin/.nfc files:**
 - [Xenoblade] Noah
 - [Xenoblade] Mio
