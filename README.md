@@ -21,7 +21,7 @@ I have included a rough "how-to" guide explaining what you would need to use to 
 - None reported
 
 #### Problems to Fix:
-- None reported
+- Looking into Ganondorf/Link/Zelda (TotK) are reportedly not working.
 
 ------------
 
