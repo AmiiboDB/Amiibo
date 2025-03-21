@@ -52,6 +52,7 @@ AmiiboDB@gmail.com
 **Added Missing Files:**
 - [TLoZ:ToK] Gerudo_King.bin
 - [TLoZ:ToK] Princess_Zelda.bin
+- [PowerUpBands] Gold Mario.nfc
 
 
 
